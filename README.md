@@ -1,4 +1,4 @@
-# Hotel_BT
+# HotelBT, A Mock Hotel Design!
 A mock up hotel website I created as a personal project to showcase HTML and CSS skills I have taught myself so far. The website is purely fictional hotel based in Boston, MA. I created this merely as a fun way to test myself and to showcase my self taught skills in writing clean HTML/CSS and website building. Some observations/notes;
 
 <ul>
